@@ -21,3 +21,6 @@ Member Password : 21106050028
   - View their attendance history.
 
 ### User Interface ###
+
+Login Admin and Member
+<img width="1440" alt="1" src="https://github.com/Lafarizo/DekstopApp_Catatan_Kehadiran/assets/88442671/946bf5a1-d0fd-4cf9-8dc2-1b2dcf0f0ce1">
