@@ -1,0 +1,192 @@
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\obj\Debug\Attendance.csproj.AssemblyReference.cache
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\obj\Debug\Attendance.Properties.Resources.resources
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\obj\Debug\Attendance.csproj.GenerateResource.cache
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\obj\Debug\Attendance.csproj.CoreCompileInputs.cache
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\Attendance.exe.config
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\Attendance.exe
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\Attendance.pdb
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\Google.Protobuf.dll
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\MySql.Data.dll
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\NuGet.Frameworks.dll
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\System.Buffers.dll
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\System.IO.Pipelines.dll
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\System.Memory.dll
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\ZstdSharp.dll
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\Google.Protobuf.pdb
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\Google.Protobuf.xml
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\MySql.Data.xml
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\System.Buffers.xml
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\System.IO.Pipelines.xml
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\System.Memory.xml
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\obj\Debug\Attendance.LoginForm.resources
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\obj\Debug\Attendance.csproj.CopyComplete
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\obj\Debug\Attendance.exe
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\obj\Debug\Attendance.pdb
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\obj\Debug\Attendance.AdminWindow.resources
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\obj\Debug\Attendance.AttendanceManager.resources
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\obj\Debug\Attendance.OperatorWindow.resources
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\obj\Debug\Attendance.ParticipantWindow.resources
+C:\Users\danda\Desktop\PRJ\UAS\AttendanceApp\Attendance\obj\Debug\Attendance.ManageAccounts.resources
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\Attendance.exe.config
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\Attendance.exe
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\Attendance.pdb
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\BouncyCastle.Cryptography.dll
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\Google.Protobuf.dll
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\K4os.Compression.LZ4.dll
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\K4os.Compression.LZ4.Streams.dll
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\K4os.Hash.xxHash.dll
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\MySql.Data.dll
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\NuGet.Frameworks.dll
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\System.Buffers.dll
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\System.Configuration.ConfigurationManager.dll
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\System.IO.Pipelines.dll
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\System.Memory.dll
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\System.Numerics.Vectors.dll
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\ZstdSharp.dll
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\BouncyCastle.Cryptography.xml
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\Google.Protobuf.pdb
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\Google.Protobuf.xml
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\K4os.Compression.LZ4.xml
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\K4os.Compression.LZ4.Streams.xml
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\K4os.Hash.xxHash.xml
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\MySql.Data.xml
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\System.Buffers.xml
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\System.IO.Pipelines.xml
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\System.Memory.xml
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\System.Numerics.Vectors.xml
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\obj\Debug\Attendance.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\obj\Debug\Attendance.AdminWindow.resources
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\obj\Debug\Attendance.AttendanceManager.resources
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\obj\Debug\Attendance.EventManager.resources
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\obj\Debug\Attendance.LoginForm.resources
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\obj\Debug\Attendance.ParticipantWindow.resources
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\obj\Debug\Attendance.Properties.Resources.resources
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\obj\Debug\Attendance.ManageAccounts.resources
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\obj\Debug\Attendance.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\obj\Debug\Attendance.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\obj\Debug\Attendance.csproj.CopyComplete
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\obj\Debug\Attendance.exe
+\\Mac\Home\Downloads\AttendanceApp-main\Attendance\obj\Debug\Attendance.pdb
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\Attendance.exe.config
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\Attendance.exe
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\Attendance.pdb
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\BouncyCastle.Cryptography.dll
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\Google.Protobuf.dll
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\K4os.Compression.LZ4.dll
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\K4os.Compression.LZ4.Streams.dll
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\K4os.Hash.xxHash.dll
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\MySql.Data.dll
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\NuGet.Frameworks.dll
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\System.Buffers.dll
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\System.Configuration.ConfigurationManager.dll
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\System.IO.Pipelines.dll
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\System.Memory.dll
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\System.Numerics.Vectors.dll
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\ZstdSharp.dll
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\BouncyCastle.Cryptography.xml
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\Google.Protobuf.pdb
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\Google.Protobuf.xml
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\K4os.Compression.LZ4.xml
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\K4os.Compression.LZ4.Streams.xml
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\K4os.Hash.xxHash.xml
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\MySql.Data.xml
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\System.Buffers.xml
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\System.IO.Pipelines.xml
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\System.Memory.xml
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\System.Numerics.Vectors.xml
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\obj\Debug\Attendance.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\obj\Debug\Attendance.AdminWindow.resources
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\obj\Debug\Attendance.AttendanceManager.resources
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\obj\Debug\Attendance.EventManager.resources
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\obj\Debug\Attendance.LoginForm.resources
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\obj\Debug\Attendance.ParticipantWindow.resources
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\obj\Debug\Attendance.Properties.Resources.resources
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\obj\Debug\Attendance.ManageAccounts.resources
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\obj\Debug\Attendance.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\obj\Debug\Attendance.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\obj\Debug\Attendance.csproj.CopyComplete
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\obj\Debug\Attendance.exe
+\\Mac\Home\Downloads\AttendanceApp-main 05.36.12\Attendance\obj\Debug\Attendance.pdb
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\Attendance.exe.config
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\Attendance.exe
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\Attendance.pdb
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\BouncyCastle.Cryptography.dll
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\Google.Protobuf.dll
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\K4os.Compression.LZ4.dll
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\K4os.Compression.LZ4.Streams.dll
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\K4os.Hash.xxHash.dll
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\MySql.Data.dll
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\NuGet.Frameworks.dll
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\System.Buffers.dll
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\System.Configuration.ConfigurationManager.dll
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\System.IO.Pipelines.dll
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\System.Memory.dll
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\System.Numerics.Vectors.dll
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\ZstdSharp.dll
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\BouncyCastle.Cryptography.xml
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\Google.Protobuf.pdb
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\Google.Protobuf.xml
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\K4os.Compression.LZ4.xml
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\K4os.Compression.LZ4.Streams.xml
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\K4os.Hash.xxHash.xml
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\MySql.Data.xml
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\System.Buffers.xml
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\System.IO.Pipelines.xml
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\System.Memory.xml
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\System.Numerics.Vectors.xml
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\obj\Debug\Attendance.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\obj\Debug\Attendance.AdminWindow.resources
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\obj\Debug\Attendance.AttendanceManager.resources
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\obj\Debug\Attendance.EventManager.resources
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\obj\Debug\Attendance.LoginForm.resources
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\obj\Debug\Attendance.ParticipantWindow.resources
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\obj\Debug\Attendance.Properties.Resources.resources
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\obj\Debug\Attendance.ManageAccounts.resources
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\obj\Debug\Attendance.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\obj\Debug\Attendance.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\obj\Debug\Attendance.csproj.CopyComplete
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\obj\Debug\Attendance.exe
+\\Mac\Home\Downloads\Catatan Kehadiran\Attendance\obj\Debug\Attendance.pdb
