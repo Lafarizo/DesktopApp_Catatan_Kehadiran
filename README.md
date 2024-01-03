@@ -16,7 +16,6 @@ Member Password : 21106050028
   - Create, Edit, Delete Member Accounts.
   - Record and View all attendance.
   - Export attendance records to CSV format.
-<br>
 - Member
   - Login with secure credentials.
   - View their attendance history.
